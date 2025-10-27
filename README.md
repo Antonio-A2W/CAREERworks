@@ -28,6 +28,8 @@ Current / previous position
 
 ###  Degrees  
 - **Place Holder* — Place Holder
+
+- [Projects](https://antonio-a2w.github.io/Projects/)
  
 
 ###  Skills  
